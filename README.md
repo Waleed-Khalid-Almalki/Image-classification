@@ -11,6 +11,7 @@
   - **التحسين باستخدام **GPU**: يعمل النموذج بكفاءة باستخدام **Google Colab**، مما يوفر تسريعًا كبيرًا أثناء التدريب.
 
 ## 3. **لقطة شاشة للواجهة:**
+  - https://github.com/Waleed-Khalid-Almalki/Image-classification/blob/main/%D8%B5%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D9%87.jpeg?raw=true .
 
 ## 4. **رابط إلى الكود:**
 
